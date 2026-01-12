@@ -1,2 +1,2 @@
 # UIUC-data-science-projects
-Projects for showing off
+For UChicago Data Science Institute Summer Lab 2026, please open DSfall25-final-project. This is the project that I talked about in the project description portion of my application.
